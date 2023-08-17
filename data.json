@@ -1,0 +1,660 @@
+{
+  "category": {
+    "do_thi": {
+      "name": "Đô Thị"
+    },
+    "he_thong": {
+      "name": "Hệ Thống"
+    },
+    "huyen_huyen": {
+      "name": "Huyền Huyễn"
+    },
+    "manhua": {
+      "name": "Manhua"
+    },
+    "ngon_tinh": {
+      "name": "Ngôn Tình"
+    },
+    "trong_sinh": {
+      "name": "Trọng Sinh"
+    },
+    "tu_tien": {
+      "name": "Tu Tiên"
+    },
+    "xuyen_khong": {
+      "name": "Xuyên Không"
+    }
+  },
+  "chapter": {
+    "cctmc_1": {
+      "created_at": "2023-05-17",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/17/0283342466_Output2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/17/0403536397_Output4.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/17/2163278969_Output5.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/17/2742188001_Output3.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/17/4887268035_Output1.jpg"
+        },
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/17/8443644865_Output6.jpg"
+        }
+      },
+      "name": "Chapter 1",
+      "views": 0
+    },
+    "ddctlnd_1": {
+      "created_at": "2023-06-07",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/07/1208828565_2.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/07/3503757585_1.jpg"
+        }
+      },
+      "name": "Chapter 1",
+      "views": 0
+    },
+    "ddctlnd_10": {
+      "created_at": "2023-06-16",
+      "images": {
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/07/02/2241338786_3.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/07/02/6640374355_4.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/07/02/6790456055_1.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/07/02/8153077219_2.jpg"
+        }
+      },
+      "name": "Chapter 10",
+      "views": 0
+    },
+    "ddctlnd_2": {
+      "created_at": "2023-06-08",
+      "images": {
+        "7": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/0778825345_7.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/1947271695_2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/3012318279_4.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/3105786535_1.jpg"
+        },
+        "8": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/3344570800_8.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/4457905581_3.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/7422599481_5.jpg"
+        },
+        "6": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/08/9190430531_6.jpg"
+        }
+      },
+      "name": "Chapter 2",
+      "views": 0
+    },
+    "ddctlnd_3": {
+      "created_at": "2023-06-09",
+      "images": {
+        "3": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/09/4271802700_3.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/09/6878652673_2.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/09/8422111377_1.jpg"
+        }
+      },
+      "name": "Chapter 3",
+      "views": 0
+    },
+    "ddctlnd_4": {
+      "created_at": "2023-06-10",
+      "images": {
+        "3": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/10/1018898361_3.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/10/1544954673_1.jpg"
+        },
+        "6": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/10/2665174256_6.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/10/5754961068_4.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/10/6000941824_5.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/10/6935334387_2.jpg"
+        }
+      },
+      "name": "Chapter 4",
+      "views": 0
+    },
+    "ddctlnd_5": {
+      "created_at": "2023-06-11",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/14/0328673898_2.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/14/3307405686_1.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen3.com/cdn/chapter/2023/06/14/7318532304_3.jpg"
+        }
+      },
+      "name": "Chapter 5",
+      "views": 0
+    },
+    "ddctlnd_6": {
+      "created_at": "2023-06-12",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/17/0505361665_2.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/17/4577169866_1.jpg"
+        }
+      },
+      "name": "Chapter 6",
+      "views": 0
+    },
+    "ddctlnd_7": {
+      "created_at": "2023-06-13",
+      "images": {
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/3406039149_6.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/5925219881_5.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/7591491604_3.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/8018851226_2.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/8898872418_1.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/9083800921_4.jpg"
+        }
+      },
+      "name": "Chapter 7",
+      "views": 0
+    },
+    "ddctlnd_8": {
+      "created_at": "2023-06-14",
+      "images": {
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/25/0927151179_1.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/25/4137671400_2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/25/8118148597_4.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/25/8450495514_3.jpg"
+        }
+      },
+      "name": "Chapter 8",
+      "views": 0
+    },
+    "ddctlnd_9": {
+      "created_at": "2023-06-15",
+      "images": {
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/29/0771940325_5.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/29/2989754846_3.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/29/3072353771_2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/29/6396728787_4.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/29/9606619282_1.jpg"
+        }
+      },
+      "name": "Chapter 9",
+      "views": 0
+    },
+    "dttcttthgdtctt_1": {
+      "created_at": "2023-06-22",
+      "images": {
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/2202466566_1_4.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/2225501703_1_1.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/5704398684_1_3.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/6460102122_1_2.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/8335849969_1_5.jpg"
+        },
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/8656695657_1_6.jpg"
+        },
+        "7": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/9015171059_1_7.jpg"
+        }
+      },
+      "name": "Chapter 1",
+      "views": 0
+    },
+    "tsxs_1": {
+      "created_at": "2022-10-01",
+      "images": {
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/2122078051_6-.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/2300372432_3-.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/2741605212_5-%20(1).jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/4487108459_1-.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/6614288824_4-.jpg"
+        },
+        "7": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/7941762536_7-.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2022/10/01/7977598318_2-.jpg"
+        }
+      },
+      "name": "Chapter 1",
+      "views": 0
+    },
+    "ttqk_1": {
+      "created_at": "2023-05-13",
+      "images": {
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/0105626857_Output6.jpg"
+        },
+        "7": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/1521388878_Output7.jpg"
+        },
+        "8": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/1942437248_Output8.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/3265877667_Output1.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/4353759868_Output2.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/4443028815_Output3.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/5028814261_Output5.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/5260812734_Output4.jpg"
+        },
+        "10": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/5995130354_Output10.jpg"
+        },
+        "9": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/05/13/8624398017_Output9.jpg"
+        }
+      },
+      "name": "Chapter 1",
+      "views": 0
+    },
+    "xktddcnmd_1": {
+      "created_at": "2023-06-18",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/1566301345_2.jpg"
+        },
+        "7": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/3042686509_7.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/3686376763_4.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/5454157573_1.jpg"
+        },
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/9071009877_6.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/9167936094_3.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/9206703052_5.jpg"
+        }
+      },
+      "name": "Chapter 1",
+      "views": 0
+    },
+    "xktddcnmd_10": {
+      "created_at": "2023-06-27",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/1135086890_2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/1953804338_4.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/4601635409_3.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/5564504837_1.jpg"
+        }
+      },
+      "name": "Chapter 10",
+      "views": 0
+    },
+    "xktddcnmd_2": {
+      "created_at": "2023-06-19",
+      "images": {
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/0237762463_1.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/0325218409_5.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/0759342483_2.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/1075446821_3.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/18/8201132337_4.jpg"
+        }
+      },
+      "name": "Chapter 2",
+      "views": 0
+    },
+    "xktddcnmd_3": {
+      "created_at": "2023-06-20",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/21/3290100748_2.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/21/3944931769_3.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/21/4688519985_5.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/21/4941465988_1.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/21/8125928507_4.jpg"
+        }
+      },
+      "name": "Chapter 3",
+      "views": 0
+    },
+    "xktddcnmd_4": {
+      "created_at": "2023-06-21",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/1166107744_2.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/3593818914_1.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/4936879390_3.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/6486177223_4.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/22/7522941436_5.jpg"
+        }
+      },
+      "name": "Chapter 4",
+      "views": 0
+    },
+    "xktddcnmd_5": {
+      "created_at": "2023-06-22",
+      "images": {
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/23/0921403058_1.jpg"
+        },
+        "6": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/23/5118712102_6.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/23/8803248081_5.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/23/9442295221_2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/23/9477175221_4.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/23/9856829657_3.jpg"
+        }
+      },
+      "name": "Chapter 5",
+      "views": 0
+    },
+    "xktddcnmd_6": {
+      "created_at": "2023-06-23",
+      "images": {
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/3595039359_4.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/4442331175_1.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/5428206684_3.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/8809002037_5.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/9956114299_2.jpg"
+        }
+      },
+      "name": "Chapter 6",
+      "views": 0
+    },
+    "xktddcnmd_7": {
+      "created_at": "2023-06-24",
+      "images": {
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/1717635078_1.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/4275511817_4.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/6277504857_3.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/8276447116_2.jpg"
+        }
+      },
+      "name": "Chapter 7",
+      "views": 0
+    },
+    "xktddcnmd_8": {
+      "created_at": "2023-06-25",
+      "images": {
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/1087495718_2.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/2459370048_3.jpg"
+        },
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/3090487639_1.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/7550366654_4.jpg"
+        }
+      },
+      "name": "Chapter 8",
+      "views": 0
+    },
+    "xktddcnmd_9": {
+      "created_at": "2023-06-26",
+      "images": {
+        "1": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/0692967209_1.jpg"
+        },
+        "2": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/2512964200_2.jpg"
+        },
+        "4": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/4446470024_4.jpg"
+        },
+        "5": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/4532392895_5.jpg"
+        },
+        "3": {
+          "url": "https://cdn2.vlogtruyen5.net/cdn/chapter/2023/06/26/6938639197_3.jpg"
+        }
+      },
+      "name": "Chapter 9",
+      "views": 0
+    }
+  },
+  "comics": {
+    "cctmc": {
+      "avatar": "https://cdn2.vlogtruyen5.net/cdn/manga/2023/05/12/6746163568.jpg",
+      "category": ["manhua", "tu_tien"],
+      "chapters": {
+        "cctmc_1": true
+      },
+      "created_at": "2023-05-12",
+      "name": "Cửu Châu Tiên Ma Chí",
+      "summary": "Nhân Kiệt Độ Kiếp vẫn lạc, quần ma quấy nhiễu nhân gian."
+    },
+    "ddctlnd": {
+      "avatar": "https://cdn2.vlogtruyen5.net/cdn/manga/2023/06/07/4235651717.jpg",
+      "category": ["manhua", "huyen_huyen", "tu_tien", "he_thong"],
+      "chapters": {
+        "ddctlnd_1": true,
+        "ddctlnd_10": true,
+        "ddctlnd_2": true,
+        "ddctlnd_3": true,
+        "ddctlnd_4": true,
+        "ddctlnd_5": true,
+        "ddctlnd_6": true,
+        "ddctlnd_7": true,
+        "ddctlnd_8": true,
+        "ddctlnd_9": true
+      },
+      "created_at": "2023-06-07",
+      "name": "Đồ Đệ Của Ta Là Nữ Đế",
+      "summary": "Trong tông môn kẻ phế vật nhất phong chủ Tần Thiên, trong một lần đệ tử chiêu mộ nữ đế An Diệu Lăng bị chuyển thế trọng sinh. Thế nhưng An Diệu Lăng nhập môn không lâu sau liền phát hiện, cái gọi là phế vật Tần Thiên chỉ là biểu hiện, gợi lên lòng hiếu kỳ cực lớn của An Diệu Lăng là nữ đế chuyển thế."
+    },
+    "dttcttthgdtctt": {
+      "avatar": "https://cdn2.vlogtruyen5.net/cdn/manga/2023/06/22/6881393878.jpg",
+      "category": ["manhua", "xuyen_khong", "he_thong"],
+      "chapters": {
+        "dttcttthgdtctt_1": true
+      },
+      "created_at": "2023-06-22",
+      "name": "Đại Tần: Ta Con Trai Tần Thủy Hoàng Giết Địch Thăng Cấp Thành Thần",
+      "summary": "Triệu Kỳ trọng sinh đến thời Chiến Quốc. Đúng vào thời điểm Tần Thủy Hoàng Doanh Chính mở ra trận chiến quét lục quốc, thống nhất thiên hạ. Dứt khoát nhập ngũ tòng quân, không nghĩ tới lại mở ra hệ thống sát địch thăng cấp! Triệu Kỳ từng bước trở thành thống soái của Đại Tần duệ sĩ, khi nhìn thấy Hoàng Hậu Tần Quốc, nhất thời kinh hãi, mình lại là con trai của Thủy Hoàng, Đại Tần trưởng công tử!"
+    },
+    "tsxs": {
+      "avatar": "https://cdn2.vlogtruyen5.net/cdn/manga/2022/10/01/3390791521.jpg",
+      "category": ["manhua", "tu_tien"],
+      "chapters": {
+        "tsxs_1": true
+      },
+      "created_at": "2022-10-01",
+      "name": "Tổ Sư Xuất Sơn",
+      "summary": "Diệp Tuyệt Vũ, Là một người tu tiên thời xưa, Bế quan suốt 500 năm cuối cùng cũng đã xuất quan! Nhưng lại phát hiện thế giới đã thay đổi rồi..."
+    },
+    "ttqk": {
+      "avatar": "https://cdn2.vlogtruyen5.net/cdn/manga/2023/05/13/0340727244.jpg",
+      "category": ["xuyen_khong", "trong_sinh", "he_thong"],
+      "chapters": {
+        "ttqk_1": true
+      },
+      "created_at": "2023-05-13",
+      "name": "Thần Thú Quật Khởi",
+      "summary": "Một ngàn năm trước, Huyết Nguyệt tinh không, khe nứt không gian mở ra, thời đại quái thú hàng lâm! Vô số quái thú tàn phá toàn cầu! Ngay tại thời khắc nhân loại sắp phải đối mặt với diệt vong hoàn toàn, thú hồn sư được sinh ra, mang đến bình minh hy vọng cho toàn nhân loại! Cùng với sự kế thừa và phát triển của các thế hệ Thú Hồn Sư, nhân loại đã thành công trong việc tạo ra một trật tự văn minh mới để chống lại sự xâm lược của quái thú! Lâm Uyên, kiếp trước với tư cách là ám sát giả đứng đầu lại bị tổ chức phản bội sát hại, xuyên không trở thành một học sinh trung học bình thường, ngay cả khế ước cũng là cấp E yếu nhất. [ Thằn lằn thú...."
+    },
+    "xktddcnmd": {
+      "avatar": "https://cdn2.vlogtruyen5.net/cdn/manga/2023/06/18/7177612847.jpg",
+      "category": [
+        "manhua",
+        "xuyen_khong",
+        "huyen_huyen",
+        "tu_tien",
+        "he_thong"
+      ],
+      "chapters": {
+        "xktddcnmd_1": true,
+        "xktddcnmd_10": true,
+        "xktddcnmd_2": true,
+        "xktddcnmd_3": true,
+        "xktddcnmd_4": true,
+        "xktddcnmd_5": true,
+        "xktddcnmd_6": true,
+        "xktddcnmd_7": true,
+        "xktddcnmd_8": true,
+        "xktddcnmd_9": true
+      },
+      "created_at": "2023-06-18",
+      "name": "Xuyên Không Thành Đồ Đệ Của Nữ Ma Đầu, Ta Lặng Lẽ Tu Luyện",
+      "summary": "Lâm Cửu U vốn là họa sĩ truyện tranh, không ngờ tới mình lại có hệ thống xuyên qua đến thiên vực hóa thân thành thiếu niên 16 tuổi bình thường, được trưởng lão Linh Tuyền của thập bát phong mang về làm đệ tử. Không ngờ tới , sư phụ Linh Tuyền không chỉ là đương thời đệ nhất mỹ nhân, còn trấn thủ thập bát phong U Minh Quỷ đạo có linh mạch cực mạnh, chỉ cần ở chỗ này dựa vào hệ thống lặng lẽ tu luyện, tất nhiên..."
+    }
+  },
+  "users": {
+    "vjGPljOTYmUc9MucjfusFw0N34S2": {
+      "avatar": "",
+      "email": "diennguyenk12@gmail.com",
+      "nickname": "Diện"
+    }
+  }
+}

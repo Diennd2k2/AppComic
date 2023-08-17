@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "175034350001",
+    "firebase_url": "https://king-comic-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "king-comic",
+    "storage_bucket": "king-comic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175034350001:android:c9da36cd81446b0f9be590",
+        "android_client_info": {
+          "package_name": "com.comics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175034350001-6umb0s5gldr4orunmakchc9sn01ns5d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQ44bd5mkts6ey5-1PX8A9q4vyulEq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175034350001-6umb0s5gldr4orunmakchc9sn01ns5d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175034350001:android:8c50a2bcce381c349be590",
+        "android_client_info": {
+          "package_name": "com.kingcomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175034350001-1bte5v530nt4pgf186dkua77fmlku4ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingcomics",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "175034350001-6umb0s5gldr4orunmakchc9sn01ns5d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQ44bd5mkts6ey5-1PX8A9q4vyulEq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175034350001-6umb0s5gldr4orunmakchc9sn01ns5d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
